@@ -1,6 +1,6 @@
 
 
-#caroulsel{
+#carousel{
     width: 800px;
     height:600px;
     margin: 50px 200px;
@@ -27,5 +27,5 @@
     font-size: 14px; 
     background: rgba(0,0,0,0.5);  
     color: #fff;
-    }
+}
 
